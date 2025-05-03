@@ -4,18 +4,11 @@
 
 ---
 
-## 📌 Project Repository
-
-👉 [GitHub – Travel Nexus](https://github.com/Veda25-03)
-
----
-
 ## 👥 Contributors
 
-- **[Your Name]** – Frontend development, database integration, UI/UX enhancement.
-- **[Senior’s Name]** – Backend logic, phpMyAdmin DB design, payment processing implementation.
+- **[Sachin Dumbre]** – Frontend development, database integration, UI/UX enhancement.
+- **[Vedashree rajwade & Tanvi Joil]** – Backend logic, phpMyAdmin DB design, payment processing implementation.
 
-*(Replace with actual names or GitHub handles if desired.)*
 
 ---
 
@@ -26,8 +19,7 @@
 - Validation and security checks.
 
 🎥 **Login Demo**  
-[📹 Watch Video](#) *(Attach your actual login video link here)*
-
+[📹 Watch Video]() 
 ---
 
 ### 🗃️ Database Integration
