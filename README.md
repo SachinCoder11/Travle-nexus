@@ -19,7 +19,8 @@
 - Validation and security checks.
 
 🎥 **Login Demo**  
-[📹 Watch Video]() 
+[📹 Watch Video]([recording (1).webm](https://github.com/user-attachments/assets/ab0279fc-421b-4ed1-972a-2ce96cad7dfa)
+) 
 ---
 
 ### 🗃️ Database Integration
