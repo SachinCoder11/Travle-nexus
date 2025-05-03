@@ -29,7 +29,8 @@
 - Tables: `users`, `destinations`, `bookings`, `payments`.
 
 🎥 **Database Storage Demo**  
-[📹 Watch Video]https://github.com/user-attachments/assets/d7a3844d-0caf-470d-97ec-122686452346
+[📹 Watch Video](https://github.com/user-attachments/assets/d7a3844d-0caf-470d-97ec-122686452346)
+
 ---
 
 ### 🧭 Tour Discovery & Booking
@@ -94,4 +95,4 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Veda25-03/Travel-Nexus.git
+   https://github.com/SachinCoder11/Travle-nexus.git
