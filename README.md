@@ -29,8 +29,7 @@
 - Tables: `users`, `destinations`, `bookings`, `payments`.
 
 🎥 **Database Storage Demo**  
-[📹 Watch Video]((https://github.com/user-attachments/assets/d7a3844d-0caf-470d-97ec-122686452346))
-
+[📹 Watch Video]https://github.com/user-attachments/assets/d7a3844d-0caf-470d-97ec-122686452346
 ---
 
 ### 🧭 Tour Discovery & Booking
