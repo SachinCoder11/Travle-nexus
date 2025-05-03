@@ -19,8 +19,9 @@
 - Validation and security checks.
 
 🎥 **Login Demo**  
-[📹 Watch Video]([recording (1).webm](https://github.com/user-attachments/assets/ab0279fc-421b-4ed1-972a-2ce96cad7dfa)
+[📹 Watch Video](https://github.com/user-attachments/assets/ab0279fc-421b-4ed1-972a-2ce96cad7dfa)
 ) 
+
 ---
 
 ### 🗃️ Database Integration
@@ -28,7 +29,7 @@
 - Tables: `users`, `destinations`, `bookings`, `payments`.
 
 🎥 **Database Storage Demo**  
-[📹 Watch Video](#) *(Attach your actual DB video here)*
+[📹 Watch Video]((https://github.com/user-attachments/assets/d7a3844d-0caf-470d-97ec-122686452346))
 
 ---
 
@@ -44,7 +45,13 @@
 - Records stored in `payments` table with status “Paid”.
 
 🎥 **Payment Process Demo**  
-[📹 Watch Video](#) *(Attach your actual payment video here)*
+[📹 Watch Video]((https://github.com/user-attachments/assets/cf70afda-a0f2-42aa-8590-c4cfd44ff87f)
+)
+
+---
+
+**Payment Details Saved in Database**
+[Screenshot-((https://github.com/user-attachments/assets/e4efee54-f839-4802-9f7a-c08b662734a4))
 
 ---
 
